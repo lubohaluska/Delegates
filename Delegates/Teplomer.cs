@@ -12,7 +12,7 @@ namespace Delegates
     {
         private Timer timer;  //zvysovanie teploty simulujeme odpocitavanim cez timer
 
-        private Random randomizer = new Random();
+        private static Random randomizer = new Random(); //kedze je static je postupne vypinanie
 
         public delegate void PrehratiHandle(int teplota);
         public event PrehratiHandle Prehrati;

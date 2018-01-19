@@ -20,9 +20,11 @@ namespace Delegates
                 new Stroj("stroj4")
             };
 
+
+            Console.ReadLine();
         }
 
 
     }
 }
-}
+

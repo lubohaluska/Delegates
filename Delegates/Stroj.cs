@@ -8,7 +8,7 @@ namespace Delegates
 {
     class Stroj
     {
-        private string NazevStroje;
+        private string nazevStroje;
         private Teplomer teplomer = new Teplomer();
 
         public Stroj(string nazevStroje)
