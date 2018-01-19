@@ -24,6 +24,7 @@ namespace Delegates
             VypniStroj();
         }
 
+
         public void ZapniStroj()
         {
         Console.WriteLine("zapinam" + nazevStroje);

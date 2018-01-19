@@ -24,7 +24,6 @@ namespace Delegates
             Console.ReadLine();
         }
 
-
     }
 }
 
