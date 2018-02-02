@@ -11,6 +11,7 @@ namespace shepmant
         public void Notify(string message)
         {
             Console.WriteLine(message);
+
         }
     }
 }

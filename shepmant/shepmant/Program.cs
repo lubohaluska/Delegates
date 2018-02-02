@@ -28,8 +28,7 @@ namespace shepmant
             s.TrackNumber = "Odoslany balicek cislo > ";
 
             Console.ReadLine();
-
-
+            
 
         }
     }

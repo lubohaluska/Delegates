@@ -13,5 +13,6 @@ namespace shepmant
         public double CenaZaKus;
 
         public static Item item { get; internal set; }
+
     }
 }
