@@ -25,7 +25,7 @@ namespace shepmant
             notifikace n = new notifikace();
             s.TrackingNumberAdded += n.Notify;
 
-            s.TrackNumber = "123456das";
+            s.TrackNumber = "Odoslany balicek cislo > ";
 
             Console.ReadLine();
 
