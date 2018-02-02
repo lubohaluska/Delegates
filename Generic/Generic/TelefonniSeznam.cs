@@ -26,6 +26,7 @@ namespace Generic
                 //nachadza zahlasi sa chyba
             }
 
+
         }
 
         public bool Find(string telCislo, out Student student)

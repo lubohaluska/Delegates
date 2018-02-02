@@ -24,6 +24,7 @@ namespace Generic
         }
 
 
+
         public T Pop()
         {
 

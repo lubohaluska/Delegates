@@ -13,7 +13,6 @@ namespace Generic
         public string TelCislo;
 
 
-
-
+        
     }
 }

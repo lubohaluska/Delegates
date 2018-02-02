@@ -30,6 +30,7 @@ namespace Generic
             }
 
 
+
             GenericSmallStack<string> stringSmallStack = new GenericSmallStack<string>();
             stringSmallStack.Pop();
 

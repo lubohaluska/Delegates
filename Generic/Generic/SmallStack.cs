@@ -23,6 +23,7 @@ namespace Generic
         }
         
 
+
         public int Pop()
         {
 
